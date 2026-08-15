@@ -1,10 +1,10 @@
 # Legends of the Forgotten Realm
 
-A command-line RPG game developed in Python using Object-Oriented Programming principles. Players can create a character, explore different regions, battle enemies and bosses, collect equipment, level up, and save their progress.
+A command-line fantasy adventure built in Python, where players create a hero, explore dangerous lands, fight enemies and bosses, collect powerful gear, and grow stronger through leveling and progression. The game combines story-driven exploration with strategy, inventory management, and persistent save functionality.
 
 ## Features
 
-- Character Creation (Warrior, Mage, Archer)
+- Character Creation (Warrior, Mage, Archer, Assassin)
 - Turn-Based Battle System
 - Weapon, Armor and Potion System
 - Inventory Management
@@ -20,7 +20,7 @@ A command-line RPG game developed in Python using Object-Oriented Programming pr
 
 - Python 3
 - JSON (Game Data Storage)
-- Object-Oriented Programming (OOP)
+- OOP
 
 ## Project Structure
 
@@ -53,13 +53,6 @@ python main.py
 - Collect loot and level up.
 - Save and continue your progress.
 
-## Future Improvements
-
-- Skill System
-- Crafting System
-- NPC Quests
-- Better Battle Animations
-- Enhanced UI
 
 ## Author
 
