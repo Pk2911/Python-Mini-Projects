@@ -1,0 +1,33 @@
+{
+    "Warrior": {
+        "max_hp": 200,
+        "max_mana": 40,
+        "attack": 25,
+        "defense": 18,
+        "crit_chance": 5
+    },
+
+    "Mage": {
+        "max_hp": 140,
+        "max_mana": 150,
+        "attack": 30,
+        "defense": 8,
+        "crit_chance": 10
+    },
+
+    "Archer": {
+        "max_hp": 160,
+        "max_mana": 80,
+        "attack": 22,
+        "defense": 12,
+        "crit_chance": 18
+    },
+
+    "Assassin": {
+        "max_hp": 120,
+        "max_mana": 90,
+        "attack": 28,
+        "defense": 7,
+        "crit_chance": 25
+    }
+}

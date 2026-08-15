@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Greenwood Forest",
+        "min_level": 1,
+        "max_level": 10,
+        "enemy_ids": ["ENM001","ENM002","ENM003","ENM004","ENM005"],
+        "boss_id": "BOSS001"
+    },
+    {
+        "id": 2,
+        "name": "Dark Swamp",
+        "min_level": 11,
+        "max_level": 20,
+        "enemy_ids": ["ENM006","ENM007"],
+        "boss_id": "BOSS002"
+    },
+    {
+        "id": 3,
+        "name": "Ancient Ruins",
+        "min_level": 21,
+        "max_level": 30,
+        "enemy_ids": ["ENM008","ENM009"],
+        "boss_id": "BOSS003"
+    },
+    {
+        "id": 4,
+        "name": "Frozen Peaks",
+        "min_level": 31,
+        "max_level": 40,
+        "enemy_ids": ["ENM010","ENM011"],
+        "boss_id": "BOSS004"
+    },
+    {
+        "id": 5,
+        "name": "Volcanic Valley",
+        "min_level": 41,
+        "max_level": 50,
+        "enemy_ids": ["ENM012","ENM013"],
+        "boss_id": "BOSS005"
+    },
+    {
+        "id": 6,
+        "name": "Shadow Kingdom",
+        "min_level": 51,
+        "max_level": 60,
+        "enemy_ids": ["ENM014","ENM015"],
+        "boss_id": "BOSS006"
+    },
+    {
+        "id": 7,
+        "name": "Infernal Wasteland",
+        "min_level": 61,
+        "max_level": 70,
+        "enemy_ids": ["ENM016","ENM017"],
+        "boss_id": "BOSS007"
+    },
+    {
+        "id": 8,
+        "name": "Dragon Highlands",
+        "min_level": 71,
+        "max_level": 80,
+        "enemy_ids": ["ENM018","ENM019"],
+        "boss_id": "BOSS008"
+    },
+    {
+        "id": 9,
+        "name": "Celestial Sanctuary",
+        "min_level": 81,
+        "max_level": 90,
+        "enemy_ids": ["ENM020","ENM021"],
+        "boss_id": "BOSS009"
+    },
+    {
+        "id": 10,
+        "name": "Demon King's Castle",
+        "min_level": 91,
+        "max_level": 100,
+        "enemy_ids": ["ENM022","ENM023"],
+        "boss_id": "BOSS010"
+    }
+]

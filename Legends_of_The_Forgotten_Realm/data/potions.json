@@ -1,0 +1,202 @@
+[
+    {
+        "id": "POT001",
+        "name": "Small Health Potion",
+        "rarity": "Common",
+        "potion_type": "Health",
+        "value": 30,
+        "duration": 0,
+        "price": 50,
+        "required_level": 1
+    },
+    {
+        "id": "POT002",
+        "name": "Medium Health Potion",
+        "rarity": "Common",
+        "potion_type": "Health",
+        "value": 60,
+        "duration": 0,
+        "price": 100,
+        "required_level": 5
+    },
+    {
+        "id": "POT003",
+        "name": "Large Health Potion",
+        "rarity": "Uncommon",
+        "potion_type": "Health",
+        "value": 120,
+        "duration": 0,
+        "price": 250,
+        "required_level": 10
+    },
+    {
+        "id": "POT004",
+        "name": "Mega Health Potion",
+        "rarity": "Rare",
+        "potion_type": "Health",
+        "value": 200,
+        "duration": 0,
+        "price": 500,
+        "required_level": 20
+    },
+    {
+        "id": "POT005",
+        "name": "Ultimate Health Potion",
+        "rarity": "Legendary",
+        "potion_type": "Health",
+        "value": 500,
+        "duration": 0,
+        "price": 2500,
+        "required_level": 80
+    },
+    {
+        "id": "POT006",
+        "name": "Small Mana Potion",
+        "rarity": "Common",
+        "potion_type": "Mana",
+        "value": 25,
+        "duration": 0,
+        "price": 50,
+        "required_level": 1
+    },
+    {
+        "id": "POT007",
+        "name": "Medium Mana Potion",
+        "rarity": "Common",
+        "potion_type": "Mana",
+        "value": 50,
+        "duration": 0,
+        "price": 100,
+        "required_level": 5
+    },
+    {
+        "id": "POT008",
+        "name": "Large Mana Potion",
+        "rarity": "Uncommon",
+        "potion_type": "Mana",
+        "value": 100,
+        "duration": 0,
+        "price": 250,
+        "required_level": 10
+    },
+    {
+        "id": "POT009",
+        "name": "Mega Mana Potion",
+        "rarity": "Rare",
+        "potion_type": "Mana",
+        "value": 180,
+        "duration": 0,
+        "price": 500,
+        "required_level": 20
+    },
+    {
+        "id": "POT010",
+        "name": "Ultimate Mana Potion",
+        "rarity": "Legendary",
+        "potion_type": "Mana",
+        "value": 400,
+        "duration": 0,
+        "price": 2500,
+        "required_level": 80
+    },
+    {
+        "id": "POT011",
+        "name": "Strength Potion",
+        "rarity": "Rare",
+        "potion_type": "Buff",
+        "value": 10,
+        "duration": 5,
+        "price": 600,
+        "required_level": 25
+    },
+    {
+        "id": "POT012",
+        "name": "Greater Strength Potion",
+        "rarity": "Epic",
+        "potion_type": "Buff",
+        "value": 20,
+        "duration": 5,
+        "price": 1200,
+        "required_level": 45
+    },
+    {
+        "id": "POT013",
+        "name": "Defense Potion",
+        "rarity": "Rare",
+        "potion_type": "Buff",
+        "value": 8,
+        "duration": 5,
+        "price": 600,
+        "required_level": 25
+    },
+    {
+        "id": "POT014",
+        "name": "Greater Defense Potion",
+        "rarity": "Epic",
+        "potion_type": "Buff",
+        "value": 18,
+        "duration": 5,
+        "price": 1200,
+        "required_level": 45
+    },
+    {
+        "id": "POT015",
+        "name": "Critical Potion",
+        "rarity": "Epic",
+        "potion_type": "Buff",
+        "value": 10,
+        "duration": 5,
+        "price": 1800,
+        "required_level": 50
+    },
+    {
+        "id": "POT016",
+        "name": "Elixir of Power",
+        "rarity": "Mythical",
+        "potion_type": "Buff",
+        "value": 30,
+        "duration": 8,
+        "price": 3000,
+        "required_level": 70
+    },
+    {
+        "id": "POT017",
+        "name": "Elixir of Vitality",
+        "rarity": "Mythical",
+        "potion_type": "Health",
+        "value": 350,
+        "duration": 0,
+        "price": 3500,
+        "required_level": 75
+    },
+    {
+        "id": "POT018",
+        "name": "Elixir of Wisdom",
+        "rarity": "Mythical",
+        "potion_type": "Mana",
+        "value": 300,
+        "duration": 0,
+        "price": 3500,
+        "required_level": 75
+    },
+    {
+        "id": "POT019",
+        "name": "God's Blessing",
+        "rarity": "Legendary",
+        "potion_type": "Buff",
+        "value": 40,
+        "duration": 10,
+        "price": 5000,
+        "required_level": 90
+    },
+    {
+        "id": "POT020",
+        "name": "Ambrosia",
+        "rarity": "Legendary",
+        "potion_type": "Health",
+        "value": 1000,
+        "duration": 0,
+        "price": 10000,
+        "required_level": 100
+    }
+]

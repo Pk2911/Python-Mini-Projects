@@ -1,0 +1,362 @@
+[
+    {
+        "id": "WPN001",
+        "name": "Wooden Sword",
+        "rarity": "Common",
+        "damage": 8,
+        "crit_bonus": 0,
+        "price": 50,
+        "required_level": 1
+    },
+    {
+        "id": "WPN002",
+        "name": "Rusty Axe",
+        "rarity": "Common",
+        "damage": 9,
+        "crit_bonus": 1,
+        "price": 70,
+        "required_level": 2
+    },
+    {
+        "id": "WPN003",
+        "name": "Training Bow",
+        "rarity": "Common",
+        "damage": 9,
+        "crit_bonus": 2,
+        "price": 80,
+        "required_level": 3
+    },
+    {
+        "id": "WPN004",
+        "name": "Old Spear",
+        "rarity": "Common",
+        "damage": 10,
+        "crit_bonus": 1,
+        "price": 100,
+        "required_level": 4
+    },
+    {
+        "id": "WPN005",
+        "name": "Hunter Knife",
+        "rarity": "Common",
+        "damage": 11,
+        "crit_bonus": 2,
+        "price": 120,
+        "required_level": 5
+    },
+    {
+        "id": "WPN006",
+        "name": "Wooden Club",
+        "rarity": "Common",
+        "damage": 12,
+        "crit_bonus": 0,
+        "price": 140,
+        "required_level": 6
+    },
+    {
+        "id": "WPN007",
+        "name": "Bronze Dagger",
+        "rarity": "Common",
+        "damage": 13,
+        "crit_bonus": 2,
+        "price": 170,
+        "required_level": 8
+    },
+    {
+        "id": "WPN008",
+        "name": "Stone Hammer",
+        "rarity": "Common",
+        "damage": 15,
+        "crit_bonus": 1,
+        "price": 220,
+        "required_level": 10
+    },
+    {
+        "id": "WPN009",
+        "name": "Iron Sword",
+        "rarity": "Uncommon",
+        "damage": 16,
+        "crit_bonus": 2,
+        "price": 350,
+        "required_level": 10
+    },
+    {
+        "id": "WPN010",
+        "name": "Battle Axe",
+        "rarity": "Uncommon",
+        "damage": 17,
+        "crit_bonus": 2,
+        "price": 450,
+        "required_level": 12
+    },
+    {
+        "id": "WPN011",
+        "name": "Hunter Bow",
+        "rarity": "Uncommon",
+        "damage": 18,
+        "crit_bonus": 3,
+        "price": 550,
+        "required_level": 13
+    },
+    {
+        "id": "WPN012",
+        "name": "Steel Spear",
+        "rarity": "Uncommon",
+        "damage": 20,
+        "crit_bonus": 3,
+        "price": 650,
+        "required_level": 15
+    },
+    {
+        "id": "WPN013",
+        "name": "Twin Daggers",
+        "rarity": "Uncommon",
+        "damage": 21,
+        "crit_bonus": 4,
+        "price": 800,
+        "required_level": 18
+    },
+    {
+        "id": "WPN014",
+        "name": "War Mace",
+        "rarity": "Uncommon",
+        "damage": 22,
+        "crit_bonus": 2,
+        "price": 950,
+        "required_level": 20
+    },
+    {
+        "id": "WPN015",
+        "name": "Steel Longsword",
+        "rarity": "Rare",
+        "damage": 23,
+        "crit_bonus": 5,
+        "price": 1200,
+        "required_level": 22
+    },
+    {
+        "id": "WPN016",
+        "name": "Knight Axe",
+        "rarity": "Rare",
+        "damage": 25,
+        "crit_bonus": 5,
+        "price": 1450,
+        "required_level": 24
+    },
+    {
+        "id": "WPN017",
+        "name": "Composite Bow",
+        "rarity": "Rare",
+        "damage": 26,
+        "crit_bonus": 6,
+        "price": 1700,
+        "required_level": 26
+    },
+    {
+        "id": "WPN018",
+        "name": "Silver Spear",
+        "rarity": "Rare",
+        "damage": 28,
+        "crit_bonus": 6,
+        "price": 2000,
+        "required_level": 28
+    },
+    {
+        "id": "WPN019",
+        "name": "Shadow Dagger",
+        "rarity": "Rare",
+        "damage": 29,
+        "crit_bonus": 7,
+        "price": 2300,
+        "required_level": 30
+    },
+    {
+        "id": "WPN020",
+        "name": "Morning Star",
+        "rarity": "Rare",
+        "damage": 30,
+        "crit_bonus": 5,
+        "price": 2600,
+        "required_level": 35
+    },
+    {
+        "id": "WPN021",
+        "name": "Crystal Blade",
+        "rarity": "Super Rare",
+        "damage": 31,
+        "crit_bonus": 8,
+        "price": 3500,
+        "required_level": 35
+    },
+    {
+        "id": "WPN022",
+        "name": "Lightning Bow",
+        "rarity": "Super Rare",
+        "damage": 33,
+        "crit_bonus": 8,
+        "price": 4000,
+        "required_level": 38
+    },
+    {
+        "id": "WPN023",
+        "name": "Shadow Fang",
+        "rarity": "Super Rare",
+        "damage": 35,
+        "crit_bonus": 9,
+        "price": 4500,
+        "required_level": 40
+    },
+    {
+        "id": "WPN024",
+        "name": "Moon Spear",
+        "rarity": "Super Rare",
+        "damage": 37,
+        "crit_bonus": 9,
+        "price": 5200,
+        "required_level": 43
+    },
+    {
+        "id": "WPN025",
+        "name": "Ice Hammer",
+        "rarity": "Super Rare",
+        "damage": 39,
+        "crit_bonus": 10,
+        "price": 5800,
+        "required_level": 47
+    },
+    {
+        "id": "WPN026",
+        "name": "Storm Axe",
+        "rarity": "Super Rare",
+        "damage": 40,
+        "crit_bonus": 8,
+        "price": 6500,
+        "required_level": 50
+    },
+    {
+        "id": "WPN027",
+        "name": "Flame Sword",
+        "rarity": "Epic",
+        "damage": 42,
+        "crit_bonus": 12,
+        "price": 8000,
+        "required_level": 52
+    },
+    {
+        "id": "WPN028",
+        "name": "Thunder Hammer",
+        "rarity": "Epic",
+        "damage": 44,
+        "crit_bonus": 12,
+        "price": 9500,
+        "required_level": 55
+    },
+    {
+        "id": "WPN029",
+        "name": "Phoenix Bow",
+        "rarity": "Epic",
+        "damage": 46,
+        "crit_bonus": 13,
+        "price": 11000,
+        "required_level": 58
+    },
+    {
+        "id": "WPN030",
+        "name": "Inferno Spear",
+        "rarity": "Epic",
+        "damage": 48,
+        "crit_bonus": 14,
+        "price": 12500,
+        "required_level": 62
+    },
+    {
+        "id": "WPN031",
+        "name": "Blood Reaper",
+        "rarity": "Epic",
+        "damage": 50,
+        "crit_bonus": 15,
+        "price": 14000,
+        "required_level": 65
+    },
+    {
+        "id": "WPN032",
+        "name": "Celestial Staff",
+        "rarity": "Mythical",
+        "damage": 52,
+        "crit_bonus": 16,
+        "price": 18000,
+        "required_level": 70
+    },
+    {
+        "id": "WPN033",
+        "name": "Demon Slayer",
+        "rarity": "Mythical",
+        "damage": 56,
+        "crit_bonus": 17,
+        "price": 22000,
+        "required_level": 75
+    },
+    {
+        "id": "WPN034",
+        "name": "Phoenix Blade",
+        "rarity": "Mythical",
+        "damage": 60,
+        "crit_bonus": 18,
+        "price": 26000,
+        "required_level": 80
+    },
+    {
+        "id": "WPN035",
+        "name": "Soul Crusher",
+        "rarity": "Mythical",
+        "damage": 65,
+        "crit_bonus": 20,
+        "price": 30000,
+        "required_level": 85
+    },
+    {
+        "id": "WPN036",
+        "name": "Dragon King's Sword",
+        "rarity": "Legendary",
+        "damage": 68,
+        "crit_bonus": 21,
+        "price": 38000,
+        "required_level": 90
+    },
+    {
+        "id": "WPN037",
+        "name": "Blade of Eternity",
+        "rarity": "Legendary",
+        "damage": 72,
+        "crit_bonus": 22,
+        "price": 43000,
+        "required_level": 92
+    },
+    {
+        "id": "WPN038",
+        "name": "Bow of the Gods",
+        "rarity": "Legendary",
+        "damage": 75,
+        "crit_bonus": 23,
+        "price": 49000,
+        "required_level": 95
+    },
+    {
+        "id": "WPN039",
+        "name": "Titan Breaker",
+        "rarity": "Legendary",
+        "damage": 78,
+        "crit_bonus": 24,
+        "price": 55000,
+        "required_level": 98
+    },
+    {
+        "id": "WPN040",
+        "name": "Heaven's Wrath",
+        "rarity": "Legendary",
+        "damage": 80,
+        "crit_bonus": 25,
+        "price": 60000,
+        "required_level": 100
+    }
+]

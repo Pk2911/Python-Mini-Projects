@@ -1,0 +1,222 @@
+[
+    {
+        "id": "ARM001",
+        "name": "Leather Armor",
+        "rarity": "Common",
+        "defense_bonus": 3,
+        "hp_bonus": 15,
+        "mana_bonus": 0,
+        "crit_resistance": 0,
+        "price": 80,
+        "required_level": 1
+    },
+    {
+        "id": "ARM002",
+        "name": "Traveler's Vest",
+        "rarity": "Common",
+        "defense_bonus": 4,
+        "hp_bonus": 20,
+        "mana_bonus": 5,
+        "crit_resistance": 1,
+        "price": 120,
+        "required_level": 3
+    },
+    {
+        "id": "ARM003",
+        "name": "Bronze Armor",
+        "rarity": "Common",
+        "defense_bonus": 5,
+        "hp_bonus": 30,
+        "mana_bonus": 0,
+        "crit_resistance": 1,
+        "price": 180,
+        "required_level": 5
+    },
+    {
+        "id": "ARM004",
+        "name": "Iron Armor",
+        "rarity": "Uncommon",
+        "defense_bonus": 8,
+        "hp_bonus": 45,
+        "mana_bonus": 5,
+        "crit_resistance": 2,
+        "price": 500,
+        "required_level": 10
+    },
+    {
+        "id": "ARM005",
+        "name": "Steel Armor",
+        "rarity": "Uncommon",
+        "defense_bonus": 10,
+        "hp_bonus": 60,
+        "mana_bonus": 10,
+        "crit_resistance": 3,
+        "price": 800,
+        "required_level": 15
+    },
+    {
+        "id": "ARM006",
+        "name": "Knight Armor",
+        "rarity": "Rare",
+        "defense_bonus": 13,
+        "hp_bonus": 80,
+        "mana_bonus": 15,
+        "crit_resistance": 4,
+        "price": 1500,
+        "required_level": 20
+    },
+    {
+        "id": "ARM007",
+        "name": "Guardian Mail",
+        "rarity": "Rare",
+        "defense_bonus": 15,
+        "hp_bonus": 95,
+        "mana_bonus": 20,
+        "crit_resistance": 5,
+        "price": 2000,
+        "required_level": 25
+    },
+    {
+        "id": "ARM008",
+        "name": "Silver Armor",
+        "rarity": "Rare",
+        "defense_bonus": 18,
+        "hp_bonus": 110,
+        "mana_bonus": 25,
+        "crit_resistance": 6,
+        "price": 2600,
+        "required_level": 30
+    },
+    {
+        "id": "ARM009",
+        "name": "Crystal Armor",
+        "rarity": "Super Rare",
+        "defense_bonus": 22,
+        "hp_bonus": 135,
+        "mana_bonus": 35,
+        "crit_resistance": 8,
+        "price": 4500,
+        "required_level": 40
+    },
+    {
+        "id": "ARM010",
+        "name": "Shadow Armor",
+        "rarity": "Super Rare",
+        "defense_bonus": 24,
+        "hp_bonus": 150,
+        "mana_bonus": 40,
+        "crit_resistance": 9,
+        "price": 5200,
+        "required_level": 45
+    },
+    {
+        "id": "ARM011",
+        "name": "Storm Armor",
+        "rarity": "Super Rare",
+        "defense_bonus": 26,
+        "hp_bonus": 165,
+        "mana_bonus": 45,
+        "crit_resistance": 10,
+        "price": 6000,
+        "required_level": 50
+    },
+    {
+        "id": "ARM012",
+        "name": "Flame Armor",
+        "rarity": "Epic",
+        "defense_bonus": 30,
+        "hp_bonus": 190,
+        "mana_bonus": 60,
+        "crit_resistance": 12,
+        "price": 9000,
+        "required_level": 60
+    },
+    {
+        "id": "ARM013",
+        "name": "Thunder Plate",
+        "rarity": "Epic",
+        "defense_bonus": 33,
+        "hp_bonus": 210,
+        "mana_bonus": 70,
+        "crit_resistance": 13,
+        "price": 11000,
+        "required_level": 65
+    },
+    {
+        "id": "ARM014",
+        "name": "Phoenix Armor",
+        "rarity": "Epic",
+        "defense_bonus": 36,
+        "hp_bonus": 235,
+        "mana_bonus": 80,
+        "crit_resistance": 15,
+        "price": 13500,
+        "required_level": 70
+    },
+    {
+        "id": "ARM015",
+        "name": "Celestial Armor",
+        "rarity": "Mythical",
+        "defense_bonus": 40,
+        "hp_bonus": 260,
+        "mana_bonus": 100,
+        "crit_resistance": 17,
+        "price": 18000,
+        "required_level": 80
+    },
+    {
+        "id": "ARM016",
+        "name": "Dragon Scale Armor",
+        "rarity": "Mythical",
+        "defense_bonus": 44,
+        "hp_bonus": 290,
+        "mana_bonus": 120,
+        "crit_resistance": 18,
+        "price": 23000,
+        "required_level": 85
+    },
+    {
+        "id": "ARM017",
+        "name": "Divine Plate",
+        "rarity": "Legendary",
+        "defense_bonus": 48,
+        "hp_bonus": 330,
+        "mana_bonus": 140,
+        "crit_resistance": 20,
+        "price": 32000,
+        "required_level": 90
+    },
+    {
+        "id": "ARM018",
+        "name": "Titan Armor",
+        "rarity": "Legendary",
+        "defense_bonus": 52,
+        "hp_bonus": 360,
+        "mana_bonus": 160,
+        "crit_resistance": 22,
+        "price": 42000,
+        "required_level": 95
+    },
+    {
+        "id": "ARM019",
+        "name": "Heavenly Guardian",
+        "rarity": "Legendary",
+        "defense_bonus": 56,
+        "hp_bonus": 390,
+        "mana_bonus": 180,
+        "crit_resistance": 24,
+        "price": 52000,
+        "required_level": 98
+    },
+    {
+        "id": "ARM020",
+        "name": "Armor of Eternity",
+        "rarity": "Legendary",
+        "defense_bonus": 60,
+        "hp_bonus": 420,
+        "mana_bonus": 200,
+        "crit_resistance": 25,
+        "price": 60000,
+        "required_level": 100
+    }
+]

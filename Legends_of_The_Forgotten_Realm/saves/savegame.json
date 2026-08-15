@@ -1,0 +1,33 @@
+{
+    "name": "Test",
+    "player_class": "Warrior",
+    "level": 5,
+    "experience": 150,
+    "gold": 300,
+    "hp": 160,
+    "max_hp": 180,
+    "mana": 50,
+    "max_mana": 60,
+    "attack": 30,
+    "defense": 15,
+    "crit_chance": 8,
+    "crit_damage": 2.0,
+    "bosses_defeated": 1,
+    "enemies_defeated": 10,
+    "highest_region_unlocked": 2,
+    "equipped_weapon": "WPN001",
+    "equipped_armor": "ARM001",
+    "inventory": {
+        "weapons": [
+            "WPN001"
+        ],
+        "armors": [
+            "ARM001"
+        ],
+        "potions": [
+            "POT001"
+        ],
+        "materials": [],
+        "quest_items": []
+    }
+}
