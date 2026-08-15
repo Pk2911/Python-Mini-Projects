@@ -63,4 +63,4 @@ python main.py
 
 ## Author
 
-**Ajel Mathew**
+**Pankaj Krishna**
