@@ -2,7 +2,11 @@
 
 A command-line fantasy adventure built in Python, where players create a hero, explore dangerous lands, fight enemies and bosses, collect powerful gear, and grow stronger through leveling and progression. The game combines story-driven exploration with strategy, inventory management, and persistent save functionality.
 
-## Features
+## Game Overview
+
+Legends of the Forgotten Realm is a text-based RPG inspired by classic adventure games. Players choose a character class, travel across multiple regions, battle monsters, earn rewards, upgrade equipment, and continue their journey with saved progress.
+
+## Core Features
 
 - Character Creation (Warrior, Mage, Archer, Assassin)
 - Turn-Based Battle System
@@ -16,44 +20,52 @@ A command-line fantasy adventure built in Python, where players create a hero, e
 - Loot Drop System
 - Save & Load Game Progress
 
-## Technologies Used
+## Tech Stack
 
 - Python 3
 - JSON (Game Data Storage)
-- OOP
+- Object-Oriented Programming
 
-## Project Structure
+## Folder Structure
 
-```
-Legends_of_Forgotten_Realm/
-│
+```text
+Legends_of_The_Forgotten_Realm/
 ├── core/
 ├── data/
 ├── saves/
 ├── main.py
-└── README.md
+├── README.md
+├── test.py
+└── tests/
 ```
 
-## How to Run
+## How to Launch
 
-1. Clone or download the project.
-2. Open the project in VS Code or any Python IDE.
-3. Run the following command:
+1. Open the project in VS Code or any Python editor.
+2. Ensure Python is installed.
+3. Run:
 
 ```bash
 python main.py
 ```
 
-## Controls
+## What You Can Do
 
-- Create a new character.
-- Explore different regions.
-- Fight enemies and bosses.
-- Buy equipment from the shop.
-- Collect loot and level up.
-- Save and continue your progress.
+- Build a new character
+- Move through different regions
+- Defeat enemies and boss fights
+- Purchase and equip stronger items
+- Collect rewards and level up
+- Save your adventure and reload later
 
+## Future Updates
 
-## Author
+- Advanced skill system
+- Crafting mechanics
+- Quest and NPC interactions
+- Better visual combat feedback
+- More refined gameplay UX
+
+## Creator
 
 **Pankaj Krishna**

@@ -6,7 +6,7 @@ from core.shop import Shop
 db = GameDatabase()
 
 player = Player(
-    "Ajel",
+    "Pankaj Krishna",
     PlayerClass.WARRIOR,
     {
         "max_hp": 180,
